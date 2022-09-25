@@ -1,7 +1,3 @@
-# meeting-notes-fall-2022
-UMass Lowell Linux Club meeting notes
-
-
 # [UMass Lowell Linux Club Meeting Notes (Fall 2022)](https://www.uml.edu/myuml/submissions/2022/2022-09-05-14-44-56-fall-2022-uml-linux-club-meetings.aspx)
 Notes from meetings held during the [academic semester](https://www.uml.edu/myuml/submissions/2022/2022-09-05-14-44-56-fall-2022-uml-linux-club-meetings.aspx).
 
