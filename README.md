@@ -5,11 +5,19 @@ Notes from meetings held during the [academic semester](https://www.uml.edu/myum
      + Setting up Jupyter Notebook Server (Anaconda install).
      + See introduction notebook in [ChEn-3170](https://github.com/dpploy/chen-3170)
 
-  2. **23Sep22 Zoom meeting; web link *and phone number* available at the `uml-linux` Google group**
+  1. **23Sep22 Zoom meeting; web link *and phone number* available at the `uml-linux` Google group**
      + More on setting up Jupyter Notebook Server (Anaconda install); `nbextensions`.
      + Going over introduction [notebook](https://nbviewer.org/github/dpploy/chen-3170/blob/master/notebooks/01-introduction.ipynb)
      + Learning Jupyter notebook basics; markdown cells and python cells.
   
-  3. **30Sep22 Zoom meeting; web link *and phone number* available at the `uml-linux` Google group**
+  1. **30Sep22 Zoom meeting; web link *and phone number* available at the `uml-linux` Google group**
      + Learning Jupyter notebook basics;
      + Going over Labwork-01 [notebook](https://nbviewer.org/github/dpploy/chen-3170/blob/master/notebooks/labwork-01.ipynb)
+
+  1. **07Oc22 Zoom meeting; web link *and phone number* available at the `uml-linux` Google group**
+     + Going over Notebook-02 [notebook](https://nbviewer.org/github/dpploy/chen-3170/blob/master/notebooks/notebook-02.ipynb)
+     + Going over Labwork-02 [notebook](https://nbviewer.org/github/dpploy/chen-3170/blob/master/notebooks/labwork-02.ipynb)
+  
+  1. **14Oct22 Zoom meeting; web link *and phone number* available at the `uml-linux` Google group**
+     + + Going over Notebook-02 [notebook](https://nbviewer.org/github/dpploy/chen-3170/blob/master/notebooks/notebook-02.ipynb)
+     + Going over Labwork-02 [notebook](https://nbviewer.org/github/dpploy/chen-3170/blob/master/notebooks/labwork-02.ipynb)
