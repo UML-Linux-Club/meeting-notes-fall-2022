@@ -9,3 +9,7 @@ Notes from meetings held during the [academic semester](https://www.uml.edu/myum
      + More on setting up Jupyter Notebook Server (Anaconda install); `nbextensions`.
      + Going over introduction [notebook](https://nbviewer.org/github/dpploy/chen-3170/blob/master/notebooks/01-introduction.ipynb)
      + Learning Jupyter notebook basics; markdown cells and python cells.
+  
+  3. **30Sep22 Zoom meeting; web link *and phone number* available at the `uml-linux` Google group**
+     + Learning Jupyter notebook basics;
+     + Going over Labwork-01 [notebook](https://nbviewer.org/github/dpploy/chen-3170/blob/master/notebooks/labwork-01.ipynb)
