@@ -24,3 +24,7 @@ Notes from meetings held during the [academic semester](https://www.uml.edu/myum
        - VirtualBox on Windows host; with Ubuntu guest
      + Going over Notebook-02 [notebook](https://nbviewer.org/github/dpploy/chen-3170/blob/master/notebooks/notebook-02.ipynb); finished primitive data types.
      + Going over Labwork-02 [notebook](https://nbviewer.org/github/dpploy/chen-3170/blob/master/notebooks/labwork-02.ipynb)
+
+ 1. **21Oct22 Zoom meeting; web link *and phone number* available at the `uml-linux` Google group**
+     + Going over Notebook-02 [notebook](https://nbviewer.org/github/dpploy/chen-3170/blob/master/notebooks/notebook-02.ipynb); finished primitive data types.
+     + Going over Labwork-02 [notebook](https://nbviewer.org/github/dpploy/chen-3170/blob/master/notebooks/labwork-02.ipynb)
