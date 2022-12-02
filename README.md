@@ -32,3 +32,8 @@ Notes from meetings held during the [academic semester](https://www.uml.edu/myum
  1. **28Oct22 Zoom meeting; web link *and phone number* available at the `uml-linux` Google group**
      + Going over Notebook-03 [notebook](https://nbviewer.org/github/dpploy/chen-3170/blob/master/notebooks/notebook-03.ipynb)
      + Going over Labwork-02 [notebook](https://nbviewer.org/github/dpploy/chen-3170/blob/master/notebooks/labwork-02.ipynb)
+ 
+ 1. **02Dec22 Zoom meeting; web link *and phone number* available at the `uml-linux` Google group**
+     + Going over Notebook-03 [notebook](https://nbviewer.org/github/dpploy/chen-3170/blob/master/notebooks/notebook-03.ipynb)
+     + Matrix and image operations.
+
